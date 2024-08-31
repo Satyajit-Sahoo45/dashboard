@@ -13,7 +13,7 @@ const StatCard = ({ title, value, description, color, img = null }) => {
                 <img
                     src={img}
                     alt={title}
-                    className="w-12 h-12 mr-4 object-cover"
+                    className="w-14 h-14 mr-4 object-cover"
                 />
             )}
         </div>
